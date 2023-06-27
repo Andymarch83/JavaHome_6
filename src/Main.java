@@ -24,7 +24,7 @@ import java.util.Iterator;
             printConsole();
             System.out.println();
             try {
-                System.out.println(printOneEl(20));
+                System.out.println(printOneEl(7));
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
